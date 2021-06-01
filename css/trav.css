@@ -1,0 +1,57 @@
+img {
+  width: 50%;
+  padding: 5px;
+}
+
+a {
+  color: yellow;
+}
+
+a:hover {
+  text-decoration: none;
+  color: yellow;
+}
+
+body {
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-family: sans-seri;
+}
+
+/* h1 {
+  padding: 10px;
+  background-color: #FEFF9E;
+  color: black;
+} */
+/* h1:hover {
+  background-color: yellow;
+  color: black;
+  font-weight: bold;
+} */
+img:hover {
+  background-color: white;
+}
+
+.header {
+  background-color: white;
+  color: black;
+  padding: 50px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+.header:hover {
+  background-color: yellow;
+  color: black;
+}
+
+.btn {
+  background-color: white;
+  color: black;
+}
+
+.btn:hover {
+  background-color: white;
+  color: black;
+}
